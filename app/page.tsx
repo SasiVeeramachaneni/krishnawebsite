@@ -8,7 +8,6 @@ export default function HomePage() {
     <>
       <HeroBullets />
       <FeaturesImages />
-      <ArticlesCardsGrid />
       <FooterSocial />
     </>
   );
